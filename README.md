@@ -1,4 +1,6 @@
-# Minnesota Interactive State Map Project
+<div align="center">
+  <h1>Minnesota Interactive State Map Project</h1>
+</div>
 
 <div>
   <img src="https://github.com/Tuck1297/tuck1297.github.io/blob/master/Media/mapmn.JPG"/>
@@ -6,9 +8,7 @@
 
 ## Project Overview
 
-This project is the initial concept and development behind the interactive map component for a community driven application where users can interacte and share their experiences throughout the state of Minnesota. The focus of this project initially was ensuring the development of a economical but feature driven interactive map where data can be queried and the map will reflect it. This concept project will be one of the main features of this application where users can apply filters to sort thorugh data relative to either the part of the the state they want to explore or a particular activity they are looking for. 
-
-This project focused on creating a single-page application that through an interactive map users can easily look up specific information about any of Minnesota's State Parks, Recreation Areas, National Forests, Waysides, or campgrounds. Although in its earliest stages, this project aims to become a website that all outdoor enthusiasts in Minnesota can come visit to get the info they need for their next adventure. The front end work is done using Vue3 and the back end and hosting currently is managed by Firebase. This project is a perfect example of providing a easy way to find new outdoor experiences while eliminating hours of research. 
+This project focused on creating a single-page, economical and feature driven application that through an interactive map users can easily look up and/or find specific information about any of Minnesota's State Parks, Recreation Areas, National Forests, Waysides, or campgrounds. Although in its earliest stages, this project aims to become a website that all outdoor enthusiasts in Minnesota can come visit to get the info they need for their next adventure. The front end work is done using Vue3 and the back end and hosting currently is managed by Firebase. As the roadmap outlines below, this project will be reengineered in React to accomodate future growth of this project. Overall, this project is a perfect example of providing a easy way to find new outdoor experiences while eliminating hours of research. 
 
 #### You can check out the beta release of this project showcasing the interactive map component [here](https://map-mn.web.app/). For the best experience have your browser set to full screen. 
 
