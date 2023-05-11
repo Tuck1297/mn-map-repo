@@ -71,12 +71,12 @@ export default {
       },
       firebase: {
         config: {
-          apiKey: "AIzaSyDDgtEM2eQeQDTYp8U-KtpSEIKcXXy7zng",
-          authDomain: "map-mn.firebaseapp.com",
-          projectId: "map-mn",
-          storageBucket: "map-mn.appspot.com",
-          messagingSenderId: "899284998433",
-          appId: "1:899284998433:web:40e52032a2c3d984968660"
+          apiKey: "key",
+          authDomain: "domain",
+          projectId: "id",
+          storageBucket: "bucket",
+          messagingSenderId: "senderid",
+          appId: "appid"
         },
         app: null,
         db: null,
