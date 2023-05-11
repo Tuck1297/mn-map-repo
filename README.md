@@ -1,6 +1,8 @@
 # Minnesota Interactive State Map Project
 
-IMAGE WILL GO HERE!!!
+<div>
+  <img src="https://github.com/Tuck1297/tuck1297.github.io/blob/master/Media/mapmn.JPG"/>
+</div>
 
 ## Project Overview
 
