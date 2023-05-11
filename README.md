@@ -1,4 +1,10 @@
-# state-map-ui
+# Minnesota Interactive State Map Project
+
+IMAGE WILL GO HERE!!!
+
+This project is the initial concept and development behind the interactive map component for a community driven application where users can interacte and share their experiences throughout the state of Minnesota. The focus of this project initially was ensuring the development of a economical but feature driven interactive map where data can be queried and the map will reflect it. This concept project will be one of the main features of this application where users can apply filters to sort thorugh data relative to either the part of the the state they want to explore or a particular activity they are looking for. You can check out the beta release of this project showcasing the interactive map component [here](). The code in this repo is for review only.
+
+---
 
 This template should help get you started developing with Vue 3 in Vite.
 
