@@ -3,6 +3,7 @@
 </div>
 
 <div>
+  <img src="https://github.com/Tuck1297/mn-map-repo/blob/main/images/Capture1.JPG?raw=true"/>
   <img src="https://github.com/Tuck1297/tuck1297.github.io/blob/master/Media/mapmn.JPG"/>
 </div>
 
