@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Minnesota Interactive State Map Project</h1>
+  <h1>Explore More Website with Interactive Map Project</h1>
 </div>
 
 <div>
